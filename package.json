@@ -1,0 +1,13 @@
+{
+  "name": "anying-chenghun-website",
+  "version": "1.0.0",
+  "description": "暗影澄昏 Minecraft 服务器官方网站",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.2"
+  }
+}
